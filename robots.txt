@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://aminahrss17.github.io/singapore-3/sitemap.xml
